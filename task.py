@@ -4,7 +4,8 @@ def task():
 
     # Code here
 
-    # --------- #
+    name = input("input your name\n")
+    result.append(name)
 
 
     return result
